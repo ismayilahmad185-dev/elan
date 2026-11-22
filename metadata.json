@@ -1,0 +1,6 @@
+{
+  "name": "TelefonBazar",
+  "description": "Azərbaycanın müasir telefon elanları platforması, Gmail girişi və tam səlahiyyətli admin idarəetmə paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
